@@ -1,8 +1,8 @@
 LIBRARY ieee;
 USE ieee.std_logic_1164.ALL;
 USE ieee.numeric_std.ALL;
---use ieee.std_logic_arith.all;
---use ieee.std_logic_unsigned.all;
+use ieee.std_logic_arith.all;
+use ieee.std_logic_unsigned.all;
 
 
 ENTITY DDS IS
