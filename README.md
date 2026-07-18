@@ -1,4 +1,4 @@
-# FPGA-based Resolver-to-Digital Converter (RDC) System
+# FPGA Resolver-to-Digital Converter (RDC) System
 
 ## 📌 Описание проекта
 Проект реализует систему цифровой обработки сигналов для преобразователя «угол-код» (датчик СКВТ). 
